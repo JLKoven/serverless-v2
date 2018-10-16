@@ -18,7 +18,7 @@ To support the different chapters and steps of the tutorial; we use branches to 
 
 #### Usage
 
-To use this repo locally you need to have the [Serverless framework](https://serverless.com) installed.
+To use this repo locally you need to have the [Serverless framework](https://serverless.com) installed. 
 
 ``` bash
 $ npm install serverless -g
